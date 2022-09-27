@@ -9,12 +9,9 @@ I'm Hendri.
 
 ## About Me
 
-**Languages:**  PHP, Javascript, Dart, C#.  
-**Frameworks:**  Zend Framework, Laravel, Express, Flutter.  
-**3rd Party Platform:**  Firebase, Dialogflow.  
-**Editor Journey:** Sublime, Netbeans, VS Code, Vim, PHP Storm.  
-**Operating System:**  Linux (Ubuntu) and Windows.
-**Cloud Platform:**  Google Cloud Platform, Amazon Web Service, Microsoft Azure.
+**Languages:**  PHP, HTML, Java.  
+**Editor Journey:** Sublime, Netbeans, VS Code.
+**Operating System:**  Mac OS, Linux (Ubuntu) and Windows.
 
 ## Work Experience
 
