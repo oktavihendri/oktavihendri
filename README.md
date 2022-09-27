@@ -1,11 +1,11 @@
 # Oktavi Hendri
 
 Hi~
-I'm Fikih.
--    Location : Medan, Indonesia
--   Email : [fikihfirmansyah43@gmail.com](mailto:fikihfirmansyah43@gmail.com "Mail to fikihfirmansyah43@gmail.com")
+I'm Hendri.
+-    Location : Padang, Indonesia
+-   Email : [hendrioktavi987@gmail.com](mailto:hendrioktavi987@gmail.com "Mail to hendrioktavi987@gmail.com")
 -   Resume : [Download Resume](https://drive.google.com/file/d/1UH-80e6tsRRZvN3s4ObS996GukAXHEez/view?usp=sharing "Download Resume in pdf")
--   Linked In : [fikihfirmansyah](https://www.linkedin.com/in/fikih-firmansyah/ "Linked In Fikih")
+-   Linked In : [oktavihendri](https://www.linkedin.com/in/oktavihendri/ "Linked In Hendri")
 
 ## About Me
 
